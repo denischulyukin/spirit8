@@ -1,0 +1,34 @@
+@font-face {
+    src: url(../fonts/Lato/Lato-Bold.ttf);
+    font-family: "Lato-Bold";
+}
+
+@font-face {
+    src: url(../fonts/Gotham_Book/Gotham-Book.otf);
+    font-family: "Gotham-Book";
+}
+
+@font-face {
+    src: url(../fonts/Open_Sans/OpenSans-Light.ttf);
+    font-family: "OpenSans-Light";
+}
+
+@font-face {
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+    font-family: "OpenSans-Regular";
+}
+
+@font-face {
+    src: url(../fonts/Open_Sans/OpenSans-Italic.ttf);
+    font-family: "OpenSans-Italic";
+}
+
+@font-face {
+    src: url(../fonts/Open_Sans/OpenSans-SemiBold.ttf);
+    font-family: "OpenSans-SemiBold";
+}
+
+@font-face {
+    src: url(../fonts/Open_Sans/OpenSans-Bold.ttf);
+    font-family: "OpenSans-Bold";
+}
